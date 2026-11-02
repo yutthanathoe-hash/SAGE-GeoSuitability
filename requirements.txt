@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn
+joblib
+# GDAL and PyQGIS supplied by QGIS installation
+# Optional: xgboost, shap, matplotlib

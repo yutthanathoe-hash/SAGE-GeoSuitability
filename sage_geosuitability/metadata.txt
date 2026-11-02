@@ -1,0 +1,11 @@
+[general]
+name=SAGE-GeoSuitability
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+description=Scientific spatial ML risk assessment with SHAP validation, independent risk-level testing, spatial OOF calibration and raster QA
+version=1.0.0
+author=Yutthana Thoenglom
+email=
+about=QGIS Processing provider plugin. Raster predictors only; training/test points or polygons supported. Requires NumPy, SciPy, scikit-learn, joblib, GDAL; optional XGBoost and SHAP.
+category=Analysis
+experimental=False
